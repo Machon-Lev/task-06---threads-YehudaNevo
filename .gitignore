@@ -1,0 +1,29 @@
+# CLion C++ project files
+.idea/
+
+# Build output directory
+cmake-build-*/
+
+# Compiled object files
+*.o
+
+# Executables
+*.exe
+*.out
+
+# Generated makefile
+CMakeFiles/
+
+# Generated CMake cache files
+CMakeCache.txt
+CMakeCache.txt.*
+
+# Generated CMake directories
+CMakeFiles/
+CMakeScripts/
+
+# CLion generated files
+.cbp
+.cmake/
+cmake_install.cmake
+Makefile
