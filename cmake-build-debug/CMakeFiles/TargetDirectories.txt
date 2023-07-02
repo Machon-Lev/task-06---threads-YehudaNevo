@@ -1,0 +1,3 @@
+/Users/yehudanevo/CLionProjects/task-06---threads-YehudaNevo/cmake-build-debug/CMakeFiles/task_06___threads_YehudaNevo.dir
+/Users/yehudanevo/CLionProjects/task-06---threads-YehudaNevo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yehudanevo/CLionProjects/task-06---threads-YehudaNevo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
